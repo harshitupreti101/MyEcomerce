@@ -10,7 +10,7 @@ import men_banner from './Assets/banner_mens.png'
 import women_banner from './Assets/banner_women.png'
 import kid_banner from './Assets/banner_kids.png'
 import Footer from './Components/Footer/Footer.jsx' 
-// hellohello how are u
+
 const App = () => {
   return (
     <div>
